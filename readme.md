@@ -1,4 +1,4 @@
-# MaGIC Connect 2.0 Boilerplate
+# MaGIC Laravel Boilerplate
 
 Introduction
 
